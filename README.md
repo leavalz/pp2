@@ -11,5 +11,5 @@ Aquí aprenderás a instalar los componentes necesarios para hacer correr la apl
 Esta aplicacion tiene las siguientes funcionalidades:
 
 1.- Obtener listado de tareas y su estado. (Metodo: GET, Ruta: http://localhost:3000/tarea) <br/>
-2.- Agregar tarea. (Metodo: POST, Ruta: http://localhost:3000/tarea, Body: datos de la tarea) <br/>
+2.- Agregar tarea. (Metodo: POST, Ruta: http://localhost:3000/tarea, Body: nombre, estado y descripcion de la tarea) <br/>
 3.- Marcar tarea como resuelta. (Metodo: PUT, Ruta: http://localhost:3000/tarea/updateEstado/:nombre, Parametro: nombre de la tarea) <br/>
